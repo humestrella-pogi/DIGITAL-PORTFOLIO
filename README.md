@@ -1,4 +1,5 @@
 # 🎨 Prelim Portfolio
+![Prelim Portfolio Banner](./assets/images/HEADER_ESTRELLA.png)
 
 ### Presentation Design • Visual Identity • Infographics
 
