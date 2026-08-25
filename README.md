@@ -15,19 +15,14 @@ organizing, documenting, and presenting my work.
 Rather than simply showing the final outputs, I wanted this repository
 to show the process behind each activity—from the initial concept and
 design decisions to the development and final output.
-## Presentation Design, Visual Identity, and Social Media Infographics
 
-Welcome to my Prelim Portfolio.
+## 🧭 Quick Navigation
 
-This repository contains the three activities completed during the
-Prelim period. Each activity demonstrates the application of design
-principles, visual communication, creativity, and digital presentation
-skills.
-
-The portfolio documents not only the final outputs but also the concepts,
-design decisions, and creative processes behind each activity.
-
----
+| Activity | Focus | Documentation |
+|---|---|---|
+| 🎨 Activity 1 | Presentation Design Principles | [View Activity 1](./Activity-1-Presentation-Design-Principles/) |
+| 🎨 Activity 2 | Color Palette & Typography | [View Activity 2](./Activity-2-Color-Palette-and-Typography/) |
+| 📱 Activity 3 | Social Media Infographics | [View Activity 3](./Activity-3-Social-Media-Infographics/) |
 
 ## 📌 Portfolio Activities
 
