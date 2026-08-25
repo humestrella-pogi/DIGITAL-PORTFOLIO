@@ -1,24 +1,36 @@
-# Activity 1 — Presentation Design Principles
+# 🎨 Activity 1 — Presentation Design Principles
 
 ## 📌 Overview
 
-Activity 1 focused on the application of presentation design principles
-to improve the effectiveness, readability, and visual appeal of a
-presentation.
+This activity focused on applying fundamental presentation design
+principles to improve the clarity, organization, and visual appeal
+of a presentation.
 
-The goal was not simply to make the presentation visually attractive,
-but to ensure that the design supported the message and allowed the
-audience to understand the information more easily.
+The objective was to create a presentation that communicates information
+effectively while maintaining a consistent and engaging visual structure.
+
+---
 
 ## 💡 Concept
 
-The concept was developed around the idea that an effective presentation
-should communicate information clearly while maintaining a consistent
-and engaging visual structure.
+The concept was based on the idea that an effective presentation
+should prioritize communication rather than decoration.
 
-Instead of placing excessive information on each slide, the presentation
-was organized using visual hierarchy, appropriate spacing, and carefully
-selected elements.
+I wanted the audience to understand the information quickly while
+maintaining a clean and visually organized presentation.
+
+---
+
+## 🎯 Why I Chose This Concept
+
+I chose this approach because presentations can become difficult to
+follow when they contain excessive text, inconsistent layouts, or
+unnecessary visual elements.
+
+Using design principles allowed me to organize the information in a
+way that guides the audience through the presentation.
+
+---
 
 ## 🎨 Design Principles Applied
 
@@ -29,18 +41,18 @@ which information should receive the most attention.
 
 ### 2. Contrast
 
-Contrasting elements were used to distinguish headings, important
-information, and supporting content.
+Contrast was used to distinguish headings, important information,
+and supporting content.
 
 ### 3. Alignment
 
-Text, images, and other elements were aligned consistently to create
-a cleaner and more organized appearance.
+Text and visual elements were aligned consistently to create a cleaner
+and more organized layout.
 
 ### 4. Balance
 
-Visual elements were distributed across each slide to prevent the layout
-from appearing too crowded or uneven.
+Visual elements were distributed across each slide to prevent the
+presentation from appearing crowded or uneven.
 
 ### 5. Consistency
 
@@ -49,25 +61,49 @@ throughout the presentation.
 
 ### 6. Simplicity
 
-Unnecessary visual elements were minimized so that the audience could
-focus on the main message.
+Unnecessary elements were minimized so the audience could focus on
+the main message.
+
+---
 
 ## 🛠️ Development Process
 
-1. Identified the main content and objectives.
-2. Organized information according to importance.
+1. Identified the presentation objectives.
+2. Organized the information according to importance.
 3. Created an initial slide structure.
-4. Applied hierarchy and alignment.
-5. Selected supporting visual elements.
-6. Adjusted spacing and proportions.
+4. Applied visual hierarchy.
+5. Established alignment and spacing.
+6. Selected appropriate visual elements.
 7. Reviewed the overall consistency.
 8. Revised the slides to improve readability.
 
-## ✅ Final Output
+---
 
-The final presentation demonstrates how design principles can transform
-information into a more organized and understandable visual presentation.
+## 🔄 Revisions
 
-The application of these principles improved the presentation by making
-the content easier to scan, reducing unnecessary visual clutter, and
-creating a consistent visual experience.
+The presentation was reviewed after the initial design to identify
+areas where information could be better organized.
+
+Adjustments were made to spacing, alignment, text placement, and
+visual hierarchy to create a cleaner final presentation.
+
+---
+
+## ⭐ Final Output
+
+The final presentation demonstrates how design principles can improve
+the organization, readability, and visual communication of information.
+
+![Final Presentation](../assets/images/activity-1-final.png)
+
+[📄 View the Complete Presentation](./activity-1-presentation.pdf)
+
+---
+
+## 📚 What I Learned
+
+This activity taught me that effective presentation design is not
+only about making slides visually attractive.
+
+Every design element should serve a purpose and help the audience
+understand the message more effectively.
