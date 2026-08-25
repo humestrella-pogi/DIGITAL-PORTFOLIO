@@ -109,3 +109,13 @@ Activity 1 → Presentation Design Principles
 Activity 2 → Color Palette and Typography
 Activity 3 → Social Media Infographics and Mini Project Documentation
 assets     → Supporting images and resources
+
+## 📊 Portfolio Status
+
+| Activity | Status |
+|---|---|
+| Activity 1 — Presentation Design | ✅ Completed |
+| Activity 2 — Color & Typography | ✅ Completed |
+| Activity 3 — Social Media Infographics | ✅ Completed |
+
+**Prelim Portfolio:** ✅ Complete
