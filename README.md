@@ -1,4 +1,20 @@
 # PRELIM PORTFOLIO
+
+## 👋 About This Portfolio
+
+Welcome to my Prelim Portfolio.
+
+This repository documents my progress and outputs from three activities
+focused on presentation design, visual identity, and social media
+infographics.
+
+As someone who is still new to GitHub, this portfolio is also an
+opportunity for me to learn how to use GitHub as a platform for
+organizing, documenting, and presenting my work.
+
+Rather than simply showing the final outputs, I wanted this repository
+to show the process behind each activity—from the initial concept and
+design decisions to the development and final output.
 ## Presentation Design, Visual Identity, and Social Media Infographics
 
 Welcome to my Prelim Portfolio.
