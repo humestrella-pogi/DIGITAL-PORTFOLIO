@@ -55,22 +55,6 @@ documenting and presenting creative and academic projects.
 
 ---
 
-## ⭐ Featured Outputs
-
-### 🎨 Presentation Design
-
-![Activity 1](./assets/images/activity-1-final.png)
-
-### 🖌️ Color Palette & Typography
-
-![Color Palette](./Activity-2-Color-Palette-and-Typography/color-palette.png)
-
-### 📱 Social Media Infographic
-
-![Infographic](./Activity-3-Social-Media-Infographics/infographic-01.png)
-
----
-
 ## 🎯 Learning Objectives
 
 Through these activities, I aimed to:
