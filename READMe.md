@@ -2,7 +2,7 @@
 # HARESH ULYSSES M. ESTRELLA
 
 <p align="center">
-  <img src="./assets/profile.jpg" width="160" alt="Profile Photo" />
+  <img src="./assets/profile.jpg" width="160" alt="Professional Portrait with Braces.png" />
 </p>
 
 <p align="center">
