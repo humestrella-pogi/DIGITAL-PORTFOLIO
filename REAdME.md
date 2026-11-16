@@ -3,7 +3,7 @@
 # HA­RESH ULYSSES M. ESTRELLA
 
 <p align="center">
-  <img src="./profile.jpg" width="180" alt="Haresh Ulysses M. Estrella" />
+  <img src="./profile.jpg.png" width="180" alt="Haresh Ulysses M. Estrella" />
 </p>
 
 <p align="center">
