@@ -1,6 +1,6 @@
 
 <p align="center">
-# HA­RESH ULYSSES M. ESTRELLA
+  HA­RESH ULYSSES M. ESTRELLA
 
 <p align="center">
   <img src="./profile.jpg.png" width="180" alt="Haresh Ulysses M. Estrella" />
